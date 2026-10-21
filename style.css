@@ -1,0 +1,15 @@
+body {
+  border: 7px solid;
+  border-image: linear-gradient(#FFF176, #8D6E63, #40E0D0) 1;
+  text-align: center;
+  width: 400px;
+  padding: 5px;
+  background-color: #EFD4DC;
+  color: #8D6E63;
+  margin: 0;
+  padding: 10px 15px;
+  margin: 20px 15px;
+}
+img {
+	width: 150px;
+}
